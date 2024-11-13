@@ -1,0 +1,21 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 120px;
+}
+header img {
+  width: 120px;
+  height: auto;
+}
+header nav {
+  display: flex;
+  align-items: center;
+  column-gap: 48px;
+}
+header nav a {
+  font-size: 22px;
+  text-decoration: none;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
